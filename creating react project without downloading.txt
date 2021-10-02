@@ -1,0 +1,4 @@
+copy react and  node modules..
+run - npm init..
+run - npm install..
+start - npm start..
